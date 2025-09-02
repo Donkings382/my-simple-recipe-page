@@ -1,0 +1,46 @@
+.bg-primary {
+  background-color: var(--clr-accent-rose-200);
+}
+.bg-secondary {
+  background-color: var(--clr-accent-rose-100);
+}
+.text-primary {
+  color: var(--clr-primary-300);
+}
+.text-secondary {
+  color: var(--clr-secondary-400);
+}
+.text-secondary-brown {
+  color: var(--clr-secondary-300);
+}
+.text-primary-rose {
+  color: var(--clr-primary-200);
+}
+.fw-regular {
+  font-weight: var(--fw-regular);
+}
+.fw-bold {
+  font-weight: var(--fw-bold);
+}
+.fw-semi-bold {
+  font-weight: var(--fw-semi-bold);
+}
+.fs-100{
+    font-size:var(--fs-100);
+}
+.fs-200{
+    font-size:var(--fs-200);
+}
+.fs-300{
+    font-size:var(--fs-300);
+}
+.fs-400{
+    font-size:var(--fs-400);
+}
+.fs-primary-heading{
+    font-size: var(--fs-400);
+}
+.fs-secondary-heading{
+    font-size: var(--fs-300);
+}
+  
